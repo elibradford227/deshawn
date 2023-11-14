@@ -1,0 +1,5 @@
+INSERT INTO deshawnapi_city VALUES (null, 'Nashville')
+INSERT INTO deshawnapi_walker VALUES (null, 'James', 'james@gmail.com', 1)
+INSERT INTO deshawnapi_walker VALUES (null, 'James', 'james@gmail.com', 1)
+INSERT INTO deshawnapi_walker VALUES (null, 'James', 'james@gmail.com', 1)
+INSERT INTO deshawnapi_walker VALUES (null, 'James', 'james@gmail.com', 1)

@@ -33,4 +33,3 @@ class WalkerSerializer(serializers.ModelSerializer):
     class Meta:
         model = Walker
         fields = ('id', 'name', 'email', 'city', )
-
